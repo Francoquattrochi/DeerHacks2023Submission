@@ -92,7 +92,7 @@ class ImageProcessor():
 
 
 
-openai.api_key = "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"
+openai.api_key = "ENTER API KEY HERE"
 app = QApplication([])
 window = QWidget()
 window.resize(600, 700)
